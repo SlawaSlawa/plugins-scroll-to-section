@@ -33,15 +33,3 @@ scrollToSections({
 	block: 'start',
 	inline: 'center'
 })
-
-// npm install seamless-scroll-polyfill --save
-// <script src="https://cdn.jsdelivr.net/npm/seamless-scroll-polyfill@latest/lib/bundle.min.js" defer></script>
-
-// behavior Необязательный
-// Определяет анимацию скролла. Принимает значение "auto" или "smooth". По умолчанию "auto".
-// block Необязательный
-// Вертикальное выравнивание.
-// Одно из значений: "start", "center", "end" или "nearest". По умолчанию "start".
-// inline Необязательный
-// Горизонтальное выравнивание.
-// Одно из значений: "start", "center", "end" или "nearest". По умолчанию "nearest"
