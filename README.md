@@ -16,6 +16,7 @@ scrollToSections()
   })
   
 * Так же есть возможность использования полифила **seamless-scroll-polyfill**
-  * npm install seamless-scroll-polyfill --save
+  * Подключить из папки плагина
+  * или npm install seamless-scroll-polyfill --save
   * или **CDN** <script src="https://cdn.jsdelivr.net/npm/seamless-scroll-polyfill@latest/lib/bundle.min.js" defer></script>
   * Полифил подключается до основного файла скриптов и плагина
